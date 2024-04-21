@@ -1,0 +1,6 @@
+TarefaID,Descricao,Estado,ClienteID
+1,Ronda na zona 1 da cidade,Em curso,1
+2,Ronda na zona 2 da cidade,Em curso,2
+3,Ronda na zona 3 da cidade,Concluido,3
+4,Verificar vegetação na zona dos passadiços do Corgo,Nao alocado,
+5,Verificar árvores da Praça Diogo Cão,Nao alocado,
